@@ -12,4 +12,4 @@ Model Peramalan Harga Harian Gabah Kering Panen (GKP) di Tingkat Petani Mengguna
 
 # 🗂️ File dalam *Repository*
 
-- 'README.md' : Deskripsi *repository*
+- `README.md`: Deskripsi *repository*
