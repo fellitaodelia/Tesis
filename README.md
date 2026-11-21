@@ -18,9 +18,9 @@ Model Peramalan Harga Harian Gabah Kering Panen (GKP) di Tingkat Petani Mengguna
 - `APE Model Harga Riil EnbPI.csv`: Nilai APE hasil prediksi menggunakan EnbPI pada masing-masing provinsi untuk data harga riil GKP di tingkat petani
 - `APE Model Harga Riil XGBoost Data Latih.csv`: Nilai APE hasil prediksi menggunakan XGBoost pada masing-masing provinsi untuk data latih harga riil GKP di tingkat petani
 - `APE Model Harga Riil XGBoost Data Uji.csv`: Nilai APE hasil prediksi menggunakan XGBoost pada masing-masing provinsi untuk data uji harga riil GKP di tingkat petani
-- `Data Tesis Sebelum Imputasi`: Data harga harian GKP di tingkat petani dari 18 provinsi sebelum dilakukan proses imputasi terhadap data yang hilang
-- `Data Tesis Setelah Deflasi`: Data harga harian GKP di tingkat petani dari 18 provinsi setelah dilakukan proses deflasi terhadap IHP, berupa data harga riil
-- `Data Tesis Setelah Imputasi`: Data harga harian GKP di tingkat petani dari 18 provinsi setelah dilakukan proses imputasi terhadap data yang hilang
+- `Data Tesis Sebelum Imputasi.csv`: Data harga harian GKP di tingkat petani dari 18 provinsi sebelum dilakukan proses imputasi terhadap data yang hilang
+- `Data Tesis Setelah Deflasi.csv`: Data harga harian GKP di tingkat petani dari 18 provinsi setelah dilakukan proses deflasi terhadap IHP, berupa data harga riil
+- `Data Tesis Setelah Imputasi.csv`: Data harga harian GKP di tingkat petani dari 18 provinsi setelah dilakukan proses imputasi terhadap data yang hilang
 - `Hasil Peramalan Data Harga Nominal.csv`: Rincian hasil peramalan selama 90 hari ke depan berupa nilai *point prediction* serta batas bawah dan batas atas *prediction interval* pada masing-masing provinsi untuk data harga nominal GKP di tingkat petani
 - `Hasil Peramalan Data Harga Riil.csv`: Rincian hasil peramalan selama 90 hari ke depan berupa nilai *point prediction* serta batas bawah dan batas atas *prediction interval* pada masing-masing provinsi untuk data harga riil GKP di tingkat petani
 - `README.md`: Deskripsi *repository*
